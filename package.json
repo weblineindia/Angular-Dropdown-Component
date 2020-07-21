@@ -1,0 +1,74 @@
+{
+  "_from": "@ng-select/ng-select",
+  "_id": "@ng-select/ng-select@4.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-KaVlVdt7DWZBfmL6nc16i80l1dDx0cO3eGjW+grQPnhZ9KurapioQUYVf6dSmYyWyBXihvt4I3SWkCzqSWFJbQ==",
+  "_location": "/@ng-select/ng-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ng-select/ng-select",
+    "name": "@ng-select/ng-select",
+    "escapedName": "@ng-select%2fng-select",
+    "scope": "@ng-select",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ng-select/ng-select/-/ng-select-4.0.4.tgz",
+  "_shasum": "fe4ba82f4ab6110627fefb072e81bfb3eb79fafb",
+  "_spec": "@ng-select/ng-select",
+  "_where": "/media/javauser/914fa200-2352-479a-be3f-039edc4d1f6a/home/javauser/angular projects/my-new-app",
+  "author": "weblineindia",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "deprecated": false,
+  "description": "AngularJS Dropdown is a lightweight component and includes all in one UI for selection, autocomplete and multiselection.",
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "es2015": "fesm2015/ng-select-ng-select.js",
+  "esm2015": "esm2015/ng-select-ng-select.js",
+  "esm5": "esm5/ng-select-ng-select.js",
+  "fesm2015": "fesm2015/ng-select-ng-select.js",
+  "fesm5": "fesm5/ng-select-ng-select.js",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "angularjs-dropdown",
+    "angular-select",
+    "ui-select",
+    "angular-ui-select",
+    "angularjs-select",
+    "angular-dropdown",
+    "dropdown-component",
+    "angular-multiselect",
+    "multiselect",
+    "autocomplete",
+    "angular-autocomplete"
+  ],
+  "license": "MIT",
+  "main": "bundles/ng-select-ng-select.umd.js",
+  "metadata": "ng-select-ng-select.metadata.json",
+  "module": "fesm5/ng-select-ng-select.js",
+  "name": "angular-weblineindia-dropdown",
+  "peerDependencies": {
+    "@angular/common": ">=9.0.0 <10.0.0",
+    "@angular/core": ">=9.0.0 <10.0.0",
+    "@angular/forms": ">=9.0.0 <10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblineindia/AngularJS-Dropdown"
+  },
+  "sideEffects": false,
+  "typings": "ng-select-ng-select.d.ts",
+  "version": "1.0.0"
+}
