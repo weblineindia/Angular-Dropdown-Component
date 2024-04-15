@@ -44,10 +44,10 @@ Add in app.module.ts file
 
 ```typescript
 import { NgModule } from "@angular/core";
-import { DropdownModule } from "angular-weblineindia-dropdown";
+import { AngularWeblineindiaDropdownModule } from 'angular-weblineindia-dropdown';
 
 @NgModule({
-  imports: [DropdownModule],
+  imports: [AngularWeblineindiaDropdownModule],
 })
 export class AppModule {}
 ```

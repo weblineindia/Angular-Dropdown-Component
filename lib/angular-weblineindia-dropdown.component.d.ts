@@ -21,6 +21,6 @@ export declare class AngularWeblineindiaDropdownComponent {
     onFocus(event: any): void;
     onBlur(event: any): void;
     static ɵfac: i0.ɵɵFactoryDeclaration<AngularWeblineindiaDropdownComponent, never>;
-    static ɵcmp: i0.ɵɵComponentDeclaration<AngularWeblineindiaDropdownComponent, "angular-weblineindia-dropdown", never, { "placeHolder": "placeHolder"; "dropdownClass": "dropdownClass"; "dropdownListClass": "dropdownListClass"; "disabled": "disabled"; "options": "options"; "value": "value"; }, { "change": "change"; "focus": "focus"; "blur": "blur"; }, never, never, false, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<AngularWeblineindiaDropdownComponent, "angular-weblineindia-dropdown", never, { "placeHolder": { "alias": "placeHolder"; "required": false; }; "dropdownClass": { "alias": "dropdownClass"; "required": false; }; "dropdownListClass": { "alias": "dropdownListClass"; "required": false; }; "disabled": { "alias": "disabled"; "required": false; }; "options": { "alias": "options"; "required": false; }; "value": { "alias": "value"; "required": false; }; }, { "change": "change"; "focus": "focus"; "blur": "blur"; }, never, never, false, never>;
 }
 export {};
